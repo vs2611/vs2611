@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there 👋, Vivek Saliya
+#### Software Development
+I'm Vivek Saliya from India. I really enjoy learning languages like C, C++, Java and Python.
 
-I'm Vivek Saliya from India. I really enjoy learning languages like C, C++, Java and Python. You can check out my twitter at @vs_2611.
+Skills: C / C++ / Python
 
-[![vs2611's GitHub stats](https://github-readme-stats.vercel.app/api?username=vs2611)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vs2611)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vivek.saliya/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/vs_2611)  
+
