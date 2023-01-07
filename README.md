@@ -1,5 +1,4 @@
-### Hi there 👋, Vivek Saliya
-#### Software Development
+### Hi there 👋, I'm Vivek Saliya
 I'm Vivek Saliya from India. I really enjoy learning languages like C, C++, Java and Python.
 
 Skills: C / C++ / Python
