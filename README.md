@@ -1,5 +1,4 @@
-### Hi there 👋, Vivek Saliya
-#### Programmer and Explorer
+# Hi there 👋, I'm Vivek Saliya
 I'm Vivek Saliya from India. I really enjoy learning languages like C, Java and Python. I like exploring new things in the Tech industry.
 
 Skills: C / JAVA / PYTHON
